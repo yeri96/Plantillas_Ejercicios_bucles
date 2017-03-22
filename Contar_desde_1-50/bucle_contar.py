@@ -2,7 +2,7 @@
 salir = "false"
 contar = 1
 while (salir == "false"):
-	print contar 
+	print contar, 
 	if contar == 50:
 		salir = "true"
 	contar = contar + 1
